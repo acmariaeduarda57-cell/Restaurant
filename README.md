@@ -1,4 +1,6 @@
 Sistema de Menú Digital - Restaurante Sabor Latino
+
+
 Descripción del Proyecto
 Este proyecto fue desarrollado como parte del Parcial 1 de Estructuras de Datos II. Consiste en un Sistema de Menú Digital para el restaurante "Sabor Latino" utilizando un Arbol General en Java.
 El sistema permite organizar de manera jerárquica todas las categorías y platos del restaurante, facilitando la gestión, búsqueda y navegación del menú de forma eficiente.
